@@ -1,5 +1,5 @@
 
-# Ride Sharing App
+# smart ride app
 
 ## Overview
 The Ride Sharing App is a web-based application built using React.js and Next.js, with MySQL and SQL as the database for storing and retrieving data. This app provides separate login and authentication for drivers and passengers, integrates Stripe API for payment processing, and implements SHA256 encryption for securing sensitive data. Users can select rides, book them, rate their experiences, and add tips for drivers. The app also includes a mapping algorithm to optimize ride paths and uses Google Maps for estimating ride durations.
@@ -44,8 +44,8 @@ The Ride Sharing App is a web-based application built using React.js and Next.js
 ## Installation
 1. **Clone the Repository**:
     \```bash
-    git clone https://github.com/wable-j/RideSharingApp.git
-    cd RideSharingApp
+    git clone 
+    cd 
     \```
 
 2. **Install Dependencies**:
